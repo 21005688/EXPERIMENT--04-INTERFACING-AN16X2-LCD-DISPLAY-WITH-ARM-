@@ -174,8 +174,8 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 ## STM 32 CUBE PROGRAM :
 ```
-Developed by : Nivetha M
-Register no.:212221240034
+Developed by : J.DEEPIKA
+Register no.: 212221230016
 
 #include "main.h"
 #include"lcd.h"
